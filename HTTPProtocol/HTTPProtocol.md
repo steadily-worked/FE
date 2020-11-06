@@ -1,4 +1,6 @@
-# 프론트엔드 개발자가 알아야되는 HTTP 프로토콜\n(<a href="https://joshua1988.github.io/web-development/http-part1/">여기</a>를 참고했음)
+# 프론트엔드 개발자가 알아야되는 HTTP 프로토콜
+
+(출처: <a href="https://joshua1988.github.io/web-development/http-part1/">github 블로그</a>)
 
 ## HTTP 프로토콜이란
 
@@ -98,3 +100,4 @@ http//domain.com/users
 ## 다시 살펴보는 HTTP 요청과 응답
 
 앞에서 배운 URL, 요청 메소드, 상태 코드를 조합하면 아래와 같은 구조가 나온다.
+<img src='http-full-structure.png'>
